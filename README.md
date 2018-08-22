@@ -22,7 +22,7 @@ A simple password generator I made for myself to help me futher my understanding
  </div>
  
  ## Possible future changes
- - Build APK
- - Create Homescreen Icon
  - Text scales to fit screen width
  - Disable splitscreen
+ ~~ - Build APK ~~
+ ~~ - Create Homescreen Icon ~~

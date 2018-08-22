@@ -24,5 +24,5 @@ A simple password generator I made for myself to help me futher my understanding
  ## Possible future changes
  - Text scales to fit screen width
  - Disable splitscreen
- ~~ - Build APK ~~
- ~~ - Create Homescreen Icon ~~
+ - ~~Build APK~~
+ - ~~Create Homescreen Icon~~

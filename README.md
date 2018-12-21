@@ -20,9 +20,3 @@ A simple password generator I made for myself to help me futher my understanding
     </tr>
   </table>
  </div>
- 
- ## Possible future changes
- - Text scales to fit screen width
- - Disable splitscreen
- - ~~Build APK~~
- - ~~Create Homescreen Icon~~
